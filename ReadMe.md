@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hybrid Demo
-description: Hybrid demo tests the integration of websites which use btt.js tag into Native apps that are using the native Android or iOS SDKs. In that case the session that is used by the native apps should also be passed on to the website so that on the dashboard we can see both in the same session.
+description: Hybrid demo tests the integration of websites which use btt.js tag into Native apps that are using the native Android or iOS SDKs.
 ---
 
 ## Inspecting
